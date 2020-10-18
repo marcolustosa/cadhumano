@@ -1,0 +1,10 @@
+Desenvolvido por Marco Lustosa, sistema de crud para cadastro de pessoas em situação de rua.
+
+Utilizado:
+HTML
+CSS
+MATERIALIZE
+JAVASCRIPT
+MYSQL
+
+Obrigado por visualizar!
